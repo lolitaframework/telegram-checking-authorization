@@ -1,0 +1,26 @@
+{
+  "name": "telegram-checking-authorization",
+  "version": "1.0.0",
+  "description": "Checking authorization helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lolitaframework/telegram-checking-authorization.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Checking",
+    "Authorization",
+    "Crypto",
+    "SHA256"
+  ],
+  "author": "Eugen Guriev <gurievcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lolitaframework/telegram-checking-authorization/issues"
+  },
+  "homepage": "https://github.com/lolitaframework/telegram-checking-authorization#readme"
+}
